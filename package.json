@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://YOURNAME.github.io/love-card",
+  "homepage": "https://wluub.github.io/love-card",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -31,5 +31,4 @@
     "tailwindcss": "^4.2.2",
     "vite": "^8.0.4"
   }
-  
 }
