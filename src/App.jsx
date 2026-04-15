@@ -66,7 +66,7 @@ export default function App() {
               <div className="text-2xl text-pink-300 mb-4">❦</div>
               <div className="h-px bg-gradient-to-r from-transparent via-pink-200 to-transparent mb-5" />
               <p className="font-serif text-[13px] italic leading-[1.75] text-stone-700 whitespace-pre-wrap">
-                {`Bugün sana hissettirdiğim duygular için özür dilerim...`}
+                {`Bugün sana hissettirdiğim duygular için özür dilerim. O ilk dersin karmaşası geçtikten sonra yanına gelmek ve gün boyu dersler boş olduğu için yanından ayrılmamaktı niyetim. Seni önceki gün de göremedim ve inanamayacağın kadar çok özledim. Seni çoooooooook seviyorum. Hayatta sahip olduğum en kıymetli şey sensin. Geriye dönüp bakınca bugün daha farklı davranabilirdim. Keşke şu anda yanında olup sarılıp öpebilsem. Kokunu içime çekmenin hayaliyle geldiğim okulda sana böyle hissettirdiğim için tekrar özür dilerim. Tekrarı kesinlikle olmayacak. Yüz canım olsa yüzünde de senin için çabalamak seni sevmek isterdim. Seni çok seviyorum sevgilim.`}
               </p>
               <div className="h-px bg-gradient-to-r from-transparent via-pink-200 to-transparent mt-5 mb-4" />
               <span className="text-xl text-pink-400">♡</span>
